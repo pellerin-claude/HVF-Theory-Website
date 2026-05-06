@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: HVF THEORY
 custom_css: assets/css/style.scss
 ---
