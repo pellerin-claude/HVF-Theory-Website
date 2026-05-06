@@ -15,3 +15,10 @@ The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions
 *   **Matter (Knots):** Particles are topological defects; mass is defined by hydraulic drag.
 *   **Gravity (Pressure):** Standard lensing via density-dependent refractive index n(r).
 *   **Cosmology:** A relaxing substrate explaining "Dark" phenomena through elastic potential and bulk entrainment.
+
+---
+
+[Contact & Remarks](/contact)
+
+### **Full Research Paper**
+[Click here to download the full HVF Theory PDF (Revision 1)](/hvf-theory-paper.pdf)
