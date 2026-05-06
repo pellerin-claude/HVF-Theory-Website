@@ -27,18 +27,42 @@ The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions
 [Click here to download the full HVF Theory PDF (Revision 1)](/hvf-theory-paper.pdf)
 <link rel="stylesheet" href="/assets/css/main.css">
 <style>
-  /* The "Senior QA" Absolute Override */
-  .inner, header .inner, section.inner {
+  /* The "Senior QA" Professional Override */
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+    color: #333 !important;
     max-width: 850px !important;
     margin: 0 auto !important;
+    padding: 40px !important;
+    text-align: left;
   }
-  body {
-    text-align: left; /* Keeps text readable while centered in the container */
+
+  /* Authoritative Headers */
+  h1, h2, h3 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    color: #222 !important;
+    margin-top: 1.5em !important;
   }
+
+  /* The Forest Header - Absolute Path */
   header {
-    background: #2e7bcf url('/Rainforest.jpg') center center no-repeat !important;
+    background: #2e7bcf url('https://hvf-theory.org') center center no-repeat !important;
     background-size: cover !important;
     padding: 80px 0 !important;
     text-align: center !important;
+    color: white !important;
+  }
+
+  /* Clean up the links */
+  a {
+    color: #007bff !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+  }
+  a:hover {
+    text-decoration: underline !important;
   }
 </style>
