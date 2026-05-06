@@ -1,8 +1,8 @@
----
-<meta name="google-site-verification" content="Mcyo4oExbMCrPUQTFkM4CYudYolgsJfhsIhy88_cyLI" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/9642e397-f563-4ec2-bc57-d7df36193505" />---
 layout: page
 title: HVF THEORY
 ---
+<meta name="google-site-verification" content="Mcyo4oExbMCrPUQTFkM4CYudYolgsJfhsIhy88_cyLI" />
 
 ### **The Universe as a Physical, Auxetic Superfluid Plenum**
 
