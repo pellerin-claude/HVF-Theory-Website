@@ -1,6 +1,7 @@
 ---
 layout: page
 title: HVF THEORY
+custom_css: assets/css/style.scss
 ---
 
 # **HVF THEORY**
