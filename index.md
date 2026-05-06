@@ -25,4 +25,4 @@ The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions
 
 ### **Full Research Paper**
 [Click here to download the full HVF Theory PDF (Revision 1)](/hvf-theory-paper.pdf)
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/main.css">
