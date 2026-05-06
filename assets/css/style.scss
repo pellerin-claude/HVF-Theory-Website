@@ -3,6 +3,6 @@
 @import "{{ site.theme }}";
 
 header {
-  background: #2e7bcf url('/Rainforest.jpg') center center no-repeat;
-  background-size: cover;
+  background: #2e7bcf url('../../Rainforest.jpg') center center no-repeat !important;
+  background-size: cover !important;
 }
