@@ -1,4 +1,5 @@
 ---
+---
 layout: page
 title: HVF THEORY
 ---
@@ -7,7 +8,7 @@ title: HVF THEORY
 
 The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions in favor of a tangible, topological reality. We propose that the vacuum is not a void, but a physical substrate—an auxetic superfluid where matter exists as toroidal solitons (knots) and gravity operates as a hydrostatic pressure gradient.
 
----
+
 
 ### **Core Axioms**
 
@@ -16,7 +17,7 @@ The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions
 *   **Gravity (Pressure):** Standard lensing via density-dependent refractive index n(r).
 *   **Cosmology:** A relaxing substrate explaining "Dark" phenomena through elastic potential and bulk entrainment.
 
----
+
 
 [Contact & Remarks](/contact)
 
