@@ -2,7 +2,16 @@
 ---
 @import "{{ site.theme }}";
 
+// This forces the text to wrap like a professional paper
+.inner, section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+// This attempts the forest one last time with a forced height
 header {
-  background: #2e7bcf url('../../Rainforest.jpg') center center no-repeat !important;
+  background: #2e7bcf url('/Rainforest.jpg') center center no-repeat !important;
   background-size: cover !important;
+  min-height: 350px; 
 }
