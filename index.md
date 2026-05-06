@@ -3,7 +3,7 @@
 layout: page
 title: HVF THEORY
 ---
-![Rainforest Backdrop](/Rainforest.jpg)
+
 
 ### **The Universe as a Physical, Auxetic Superfluid Plenum**
 <meta name="google-site-verification" content="Mcyo4oExbMCrPUQTFkM4CYudYolgsJfhsIhy88_cyLI" />
