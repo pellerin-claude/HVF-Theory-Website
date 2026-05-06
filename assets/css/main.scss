@@ -2,16 +2,22 @@
 ---
 @import "{{ site.theme }}";
 
-// The "Global Override" - No more fighting theme classes
-body {
-  max-width: 850px !important;
+// The "Gold Build" Layout
+.inner, header .inner, section .inner {
+  max-width: 850px;
   margin: 0 auto !important;
-  padding: 40px !important;
-  display: block !important;
+  padding: 0 40px;
 }
 
 header {
-  background: #2e7bcf url('/Rainforest.jpg') center center no-repeat !important;
+  /* This is the absolute path to your verified image */
+  background: #2e7bcf url('https://hvf-theory.org') center center no-repeat !important;
   background-size: cover !important;
-  text-align: center !important;
+  padding: 80px 0 !important;
+  text-align: center;
+}
+
+p, li {
+  line-height: 1.7;
+  margin-bottom: 1.2em;
 }
