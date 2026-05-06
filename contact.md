@@ -5,7 +5,7 @@ title: Remarks & Inquiries
 
 Please use the form below to submit remarks or inquiries regarding the theory.
 
-<form action="(https://formspree.io/f/mwvybnvo)" method="POST">
+<form action="https://formspree.io/f/mwvybnvo" method="POST">
   <label>Your email:</label><br>
   <input type="email" name="_replyto" required style="width: 100%;"><br><br>
   
