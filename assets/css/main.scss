@@ -2,22 +2,19 @@
 ---
 @import "{{ site.theme }}";
 
-// The "Gold Build" Layout
-.inner, header .inner, section .inner {
-  max-width: 850px;
-  margin: 0 auto !important;
-  padding: 0 40px;
-}
-
 header {
-  /* This is the absolute path to your verified image */
   background: #2e7bcf url('https://hvf-theory.org') center center no-repeat !important;
   background-size: cover !important;
-  padding: 80px 0 !important;
-  text-align: center;
+  padding: 100px 0 !important;
 }
 
-p, li {
-  line-height: 1.7;
-  margin-bottom: 1.2em;
+.inner, section.inner, header .inner {
+  max-width: 850px !important;
+  margin: 0 auto !important;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-size: 18px !important;
+  color: #333 !important;
 }
