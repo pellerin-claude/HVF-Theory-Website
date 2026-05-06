@@ -2,22 +2,22 @@
 ---
 @import "{{ site.theme }}";
 
-// Force the container to be centered and readable
+// The "Gold Build" Layout
 .inner, header .inner, section .inner {
   max-width: 850px;
   margin: 0 auto !important;
   padding: 0 40px;
 }
 
-// Ensure the Rainforest has space and visibility
+// The Header - Using a standard path
 header {
-  background: #2e7bcf url('../../Rainforest.jpg') center center no-repeat !important;
+  background: #2e7bcf url('/Rainforest.jpg') center center no-repeat !important;
   background-size: cover !important;
   padding: 80px 0 !important;
   text-align: center;
 }
 
-// Clean up the text flow
+// The Typography
 p, li {
   line-height: 1.7;
   margin-bottom: 1.2em;
