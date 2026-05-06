@@ -3,7 +3,29 @@ layout: default
 title: HVF THEORY
 custom_css: assets/css/style.scss
 ---
-
+<style>
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+    color: #333 !important;
+    max-width: 850px !important;
+    margin: 0 auto !important;
+    padding: 40px !important;
+    text-align: left;
+  }
+  h1, h2, h3 {
+    font-weight: bold !important;
+    color: #222 !important;
+  }
+  header {
+    background: #2e7bcf url('https://hvf-theory.org') center center no-repeat !important;
+    background-size: cover !important;
+    padding: 80px 0 !important;
+    text-align: center !important;
+    color: white !important;
+  }
+</style>
 # **HVF THEORY**
 
 ### **The Universe as a Physical, Auxetic Superfluid Plenum.**
