@@ -2,24 +2,23 @@
 ---
 @import "{{ site.theme }}";
 
-// The "Body" Container - This centers the theory on the screen
-body {
-  max-width: 900px;
-  margin: 0 auto !important; // Forces the whole site to center
-  padding: 40px 20px;       // Adds breathing room on the left/right
-  line-height: 1.6;         // Improves readability flow
+// Force the container to be centered and readable
+.inner, header .inner, section .inner {
+  max-width: 850px;
+  margin: 0 auto !important;
+  padding: 0 40px;
 }
 
-// The Header - Restoring the Rainforest canvas
+// Ensure the Rainforest has space and visibility
 header {
   background: #2e7bcf url('/Rainforest.jpg') center center no-repeat !important;
   background-size: cover !important;
-  padding: 60px 20px !important; // Expands the forest area
-  color: white;
+  padding: 80px 0 !important;
+  text-align: center;
 }
 
-// Ensure the links have space
-a {
-  display: inline-block;
-  margin-top: 10px;
+// Clean up the text flow
+p, li {
+  line-height: 1.7;
+  margin-bottom: 1.2em;
 }
