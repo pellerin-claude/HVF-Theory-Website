@@ -2,23 +2,16 @@
 ---
 @import "{{ site.theme }}";
 
-// The "Gold Build" Layout
-.inner, header .inner, section .inner {
-  max-width: 850px;
+// The "Global Override" - No more fighting theme classes
+body {
+  max-width: 850px !important;
   margin: 0 auto !important;
-  padding: 0 40px;
+  padding: 40px !important;
+  display: block !important;
 }
 
-// The Header - Using a standard path
 header {
   background: #2e7bcf url('/Rainforest.jpg') center center no-repeat !important;
   background-size: cover !important;
-  padding: 80px 0 !important;
-  text-align: center;
-}
-
-// The Typography
-p, li {
-  line-height: 1.7;
-  margin-bottom: 1.2em;
+  text-align: center !important;
 }
