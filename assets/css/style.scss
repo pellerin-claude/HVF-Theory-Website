@@ -2,16 +2,24 @@
 ---
 @import "{{ site.theme }}";
 
-// This forces the text to wrap like a professional paper
-.inner, section {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+// The "Body" Container - This centers the theory on the screen
+body {
+  max-width: 900px;
+  margin: 0 auto !important; // Forces the whole site to center
+  padding: 40px 20px;       // Adds breathing room on the left/right
+  line-height: 1.6;         // Improves readability flow
 }
 
-// This attempts the forest one last time with a forced height
+// The Header - Restoring the Rainforest canvas
 header {
   background: #2e7bcf url('/Rainforest.jpg') center center no-repeat !important;
   background-size: cover !important;
-  min-height: 350px; 
+  padding: 60px 20px !important; // Expands the forest area
+  color: white;
+}
+
+// Ensure the links have space
+a {
+  display: inline-block;
+  margin-top: 10px;
 }
