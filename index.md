@@ -60,6 +60,24 @@ The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions
     padding: 40px !important;
     text-align: left;
   }
+### **HVF Series No.1**
+[Click here to download the HVF THeory Series --- No.1: Refactoring the Entire Periodic Table Using Hydrodynamics](/the_periodic_table_hvf_v1.1.pdf)
+<link rel="stylesheet" href="/assets/css/main.css">
+<style>          
+  /* The "Senior QA" Professional Override */
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+    color: #333 !important;
+    max-width: 850px !important;
+    margin: 0 auto !important;
+    padding: 40px !important;
+    text-align: left;
+  }
+
+
+
 
   /* Authoritative Headers */
   h1, h2, h3 {
@@ -69,14 +87,6 @@ The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions
     margin-top: 1.5em !important;
   }
 
-  /* The Forest Header - Absolute Path */
-  header {
-    background: #2e7bcf url('https://hvf-theory.org') center center no-repeat !important;
-    background-size: cover !important;
-    padding: 80px 0 !important;
-    text-align: center !important;
-    color: white !important;
-  }
 
   /* Clean up the links */
   a {
