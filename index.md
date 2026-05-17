@@ -54,3 +54,10 @@ The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions
 ### **HVF Series No.1**
 [Click here to download the HVF Theory Series --- No.2: Deriving the Iron-56 Saturation Linit Using Hydrodynamics](/iron_saturation_hvf_v1.1.pdf)
 
+/* Override the blue header banner typography */
+#header_wrap h1, 
+#header_wrap h2,
+.project-name,
+.project-tagline {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
