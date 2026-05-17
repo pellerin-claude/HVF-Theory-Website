@@ -46,55 +46,11 @@ The Hydrodynamic Vortex Flux (HVF) framework rejects point-particle abstractions
 [Contact & Remarks](/contact)
 
 ### **Full Research Paper**
-[Click here to download the full HVF Theory PDF (Revision 1.4)](/hvf-theory-paper.pdf)
-<link rel="stylesheet" href="/assets/css/main.css">
-<style>          
-  /* The "Senior QA" Professional Override */
-  body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-    font-size: 18px !important;
-    line-height: 1.6 !important;
-    color: #333 !important;
-    max-width: 850px !important;
-    margin: 0 auto !important;
-    padding: 40px !important;
-    text-align: left;
-  }
+[Click here to download the full HVF Theory PDF (Revision 1.4)](/hvf%20theory%20paper.pdf)
+
 ### **HVF Series No.1**
-[Click here to download the HVF THeory Series --- No.1: Refactoring the Entire Periodic Table Using Hydrodynamics](/the_periodic_table_hvf_v1.1.pdf)
-<link rel="stylesheet" href="/assets/css/main.css">
-<style>          
-  /* The "Senior QA" Professional Override */
-  body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-    font-size: 18px !important;
-    line-height: 1.6 !important;
-    color: #333 !important;
-    max-width: 850px !important;
-    margin: 0 auto !important;
-    padding: 40px !important;
-    text-align: left;
-  }
+[Click here to download the HVF Theory Series --- No.1: Refactoring the Entire Periodic Table Using Hydrodynamics](/the_periodic_table_hvf_v1.4.pdf)
 
+### **HVF Series No.1**
+[Click here to download the HVF Theory Series --- No.2: Deriving the Iron-56 Saturation Linit Using Hydrodynamics](/iron_saturation_hvf_v1.1.pdf)
 
-
-
-  /* Authoritative Headers */
-  h1, h2, h3 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-    font-weight: bold !important;
-    color: #222 !important;
-    margin-top: 1.5em !important;
-  }
-
-
-  /* Clean up the links */
-  a {
-    color: #007bff !important;
-    text-decoration: none !important;
-    font-weight: bold !important;
-  }
-  a:hover {
-    text-decoration: underline !important;
-  }
-</style>
