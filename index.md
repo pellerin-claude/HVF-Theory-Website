@@ -27,6 +27,16 @@ custom_css: assets/css/style.scss
   }
 </style>
 # **HVF THEORY**
+Notice: This repository and the Hydrodynamic Vortex Flux (HVF) framework have been officially deprecated.
+
+While the mathematical framework and initial derivations served as a useful conceptual exercise, real-world laboratory data and a rigorous review of foundational mechanics have exposed systemic flaws in the underlying model.
+
+As an independent researcher, I refuse to engage in "curve-fitting" or narrative-patching to save an incomplete map. 
+
+This site remains online strictly as an archival ledger of where the trail went cold. 
+Thank you to all real readers who engaged with the data. The quest continues.
+
+
 
 ### **The Universe as a Physical, Auxetic Superfluid Plenum.**
 
